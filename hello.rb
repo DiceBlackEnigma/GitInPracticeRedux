@@ -11,4 +11,4 @@ def baz
 end
 
 foo
-
+bar
