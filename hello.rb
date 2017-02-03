@@ -10,3 +10,5 @@ def baz
   puts 'I can not wait to get outta here, lol'
 end
 
+foo
+
